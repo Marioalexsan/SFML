@@ -49,6 +49,7 @@ SET(GRAPHICS_SRC
     Graphics/Rect.cpp
     Graphics/RectangleShape.cpp
     Graphics/Shape.cpp
+    Graphics/SpriteBatch.cpp
     Graphics/RenderStates.cpp
     Graphics/Transform.cpp
     Graphics/Transformable.cpp
